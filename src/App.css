@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+ul {
+  list-style-position: inside;
+}
+
+button {
+  padding: 6px 18px;
+  border-radius: 6px;
+  border: 1px solid black;
+}

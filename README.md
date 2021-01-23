@@ -6,9 +6,10 @@
 - :ballot_box_with_check: Return the amount of the name given as a parameter
 
 
-
+```
     yarn
     yarn start
+```
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
